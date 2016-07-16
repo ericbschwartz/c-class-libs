@@ -1,2 +1,2 @@
-# c-class-libs
+# cplusplus-class-libs
 C++ classes (not currently open source)
